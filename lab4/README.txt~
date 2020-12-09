@@ -1,0 +1,19 @@
+Class: MyLinkedList
+=======================================
+  1:    5000 words in     305 milliseconds
+  2:   10000 words in     514 milliseconds
+  3:   15000 words in     674 milliseconds
+  4:   20000 words in     842 milliseconds
+  5:   25000 words in     982 milliseconds
+
+Wordlist: small-wordlist.txt  Document: pride-and-prejudice.txt
+words: 5000  increment: 5000  steps: 5  reps: 5
+Class: MRUList
+=======================================
+  1:    5000 words in     221 milliseconds
+  2:   10000 words in     366 milliseconds
+  3:   15000 words in     521 milliseconds
+  4:   20000 words in    1135 milliseconds
+  5:   25000 words in    1280 milliseconds
+
+I affirm that I have adhered to the Honor Code on this assignment. 
